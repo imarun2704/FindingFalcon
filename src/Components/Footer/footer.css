@@ -1,0 +1,15 @@
+.footer{
+    width: 100%;
+    background-color: #081027 ;
+    font-family: cursive;
+    font-size: 14px;
+    font-weight: lighter;
+    line-height: 1.25rem;
+    box-shadow: 0 0.5rem 1rem 0 rgb(44 51 73 / 10%);
+    padding: 1.25rem;
+    display: flex;
+    justify-content: center;
+    position: fixed;
+    bottom: 0;
+    color: #FFF700 ;
+}

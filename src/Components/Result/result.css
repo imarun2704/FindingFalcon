@@ -1,0 +1,41 @@
+.result-title{
+    font-size: 24px;
+    font-weight: bold;
+    font-family: cursive;
+    color: #000;
+    margin-top: 2rem;
+}
+.result-post{
+    font-size: 28px;
+    font-weight: bold;
+    font-family: cursive;
+    color: #000;
+    margin-top: 2rem;
+}
+.result-time{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    color: #000;
+    margin-top: 2rem;
+}
+.result-planet{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    color: #000;
+    margin-top: 2rem;
+}
+.restart-btn{
+    width: 60%;
+    height: 40px;
+    border: 1px solid #ED4D6E;
+    background-color:  #ED4D6E;
+    color: #FFFFFF;
+    font-size: 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: cursive;
+    font-weight: bold;
+    margin-top: 3rem;
+}

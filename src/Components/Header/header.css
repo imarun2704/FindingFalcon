@@ -1,0 +1,15 @@
+.header{
+    width: 100%;
+    background-image: linear-gradient( #000, #5cabff);
+    font-family: cursive;
+    font-size: 30px;
+    font-weight: lighter;
+    line-height: 1.25rem;
+    box-shadow: 0 0.5rem 1rem 0 rgb(44 51 73 / 10%);
+    height: 4%;
+    padding: 1.25rem;
+    display: flex;
+    justify-content: center;
+    z-index: 100;
+    color: #FFFFFF ;
+}

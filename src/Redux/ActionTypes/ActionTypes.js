@@ -1,0 +1,7 @@
+export const actionTypes = {
+  GET_PLANETS: "GET_PLANETS",
+  GET_VEHICLES: "GET_VEHICLES",
+  GET_TOKEN: "GET_TOKEN",
+  GET_RESULT: "GET_RESULT",
+  TIME_TAKEN: "TIME_TAKEN"
+};
